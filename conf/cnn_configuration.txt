@@ -1,0 +1,4 @@
+#CNN model file path
+filename=E:\Svn\scrl_cnn_decoder\trunk\data\model\json\nigel.multilbl.bcnn.model.json
+#configuration model: softmax for single classification, topk for mutiply label classification
+model=topk
